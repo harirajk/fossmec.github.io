@@ -3,29 +3,27 @@ title: Milestones
 layout: default
 ---
 
-<section id="one">
+
+<section>
     <div class="container">
-        <h3>Contact Us</h3>
-        <p>You can join us on slack at fossmec.slack.com.<br>Use the following form to mail us to FOSS@mec.ac.in.<br>We'll be happy to help</p>
-        <form method="post" action="#">
-            <div class="row uniform">
-                <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
-                <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
-            </div>
-            <div class="row uniform">
-                <div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
-            </div>
-            <div class="row uniform">
-                <div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
-            </div>
-            <div class="row uniform">
-                <div class="12u">
+        <div class="features">
+        {% for topic in topics %}
+            <article>
+                <section class="excerpt">
+                <header>
+                    <h3><a href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a></h3>
+                </header>
+
+                    {{ post.content | truncatewords: 30 }}
+                </section>
+                <footer>
                     <ul class="actions">
-                        <li><input type="submit" class="special" value="Send Message" /></li>
-                        <li><input type="reset" value="Reset Form" /></li>
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a></li>
                     </ul>
-                </div>
-            </div>
-        </form>
+                </footer>
+                <div class="clear"></div>
+            </article>
+        {% endfor %}
+        </div>
     </div>
 </section>

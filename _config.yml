@@ -3,13 +3,22 @@ title: FOSSMEC
 email: FOSS@mec.ac.in
 slack: fosscellmec.slack.com
 description: > # this means to ignore newlines until "baseurl:"
-  FOSSCELL of MEC was made to inherit the technical workings of the College into a 
-  more ordered working conditions under the club, and also to bring forth Open Source 
-  culture by having enthusiasts working with the club on different interesting 
+  FOSSCELL of MEC was made to inherit the technical workings of the College into a
+  more ordered working conditions under the club, and also to bring forth Open Source
+  culture by having enthusiasts working with the club on different interesting
   softwares and projects, with people around the world.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fossmec.github.io/" # the base hostname & protocol for your site
 github_username:  FossMec
+collections:
+  appdev:
+    output: true
+  osdev:
+    output: true
+  webdev:
+    output: true
+  ml:
+    output: true
 
 # Build settings
 markdown: kramdown
