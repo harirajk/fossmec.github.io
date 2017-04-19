@@ -1,29 +1,23 @@
 ---
-title: Milestones
 layout: default
 ---
 
-
-<section>
+<section id="one" >
     <div class="container">
-        <div class="features">
-        {% for topic in topics %}
+        {% for post in site.categories.milestones %}
             <article>
-                <section class="excerpt">
                 <header>
-                    <h3><a href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a></h3>
+                    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 </header>
-
-                    {{ post.content | truncatewords: 30 }}
+                <section class="post-content">
+                    {{ post.excerpt }}
                 </section>
-                <footer>
+                <section class="special">
                     <ul class="actions">
-                        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a></li>
+                        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button special">Read More</a></li>
                     </ul>
-                </footer>
-                <div class="clear"></div>
+                </section>
             </article>
         {% endfor %}
-        </div>
     </div>
 </section>

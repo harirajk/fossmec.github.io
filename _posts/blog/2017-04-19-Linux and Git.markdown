@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 ---
 <img src="{{ site.baseurl }}/images/pic03.jpg">
 This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 

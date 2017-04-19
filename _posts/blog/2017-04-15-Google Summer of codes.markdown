@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 ---
 <img src="{{ site.baseurl }}/images/pic03.jpg">
 Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, over 3200 students from 99 countries have completed work in the contest.

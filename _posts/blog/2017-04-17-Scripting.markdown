@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 ---
 <img src="{{ site.baseurl }}/images/pic03.jpg">
 A scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time. In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++. It is always adviced to learn a scripting language because it has a large scope of use.

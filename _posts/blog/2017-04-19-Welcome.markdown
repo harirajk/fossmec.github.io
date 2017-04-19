@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 ---
 <img src="{{ site.baseurl }}/images/pic03.jpg">
 FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the    world of Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010 at MEC. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges in the software world.
