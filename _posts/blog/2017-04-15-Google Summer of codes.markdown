@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 ---
-<img src="{{ site.baseurl }}/images/pic03.jpg">
+
 Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, over 3200 students from 99 countries have completed work in the contest.
 
 Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. Open source organizations chosen by Google provide a list of tasks for students to work on during the seven week contest period. A unique part of the contest is that each task has mentors from the organization assigned should students have questions or need help along the way.

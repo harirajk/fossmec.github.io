@@ -2,7 +2,6 @@
 layout: post
 categories: milestones
 ---
-<img src="{{ site.baseurl }}/images/pic03.jpg">
 ### Sem2 Milestones : 
 * Basic Java programming (focusing on Android essentials)
 * The Android Studio and its Architecture

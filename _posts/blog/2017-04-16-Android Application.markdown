@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 ---
-<img src="{{ site.baseurl }}/images/pic03.jpg">
+
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable.
 
 Java is a platform Independent: – Platform independent means java can run on any computer irrespective to the hardware and software dependency. Means Java does not depend on hardware means what type of processor , RAM etc.

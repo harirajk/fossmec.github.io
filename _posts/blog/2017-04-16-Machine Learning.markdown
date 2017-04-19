@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: blog
----
-<img src="{{ site.baseurl }}/images/pic03.jpg">
+
 Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a method to achieve artificial intelligence (AI) that gives computers the ability to learn without being explicitly programmed."
 
 Machine learning is an essential skill in most of IoT applications that are developed today. What more to say, it is built into most of the applications that we all use everyday! 

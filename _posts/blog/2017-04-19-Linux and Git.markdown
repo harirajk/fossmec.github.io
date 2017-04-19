@@ -2,7 +2,6 @@
 layout: post
 categories: blog
 ---
-<img src="{{ site.baseurl }}/images/pic03.jpg">
 This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
 
 Basically there is no Open Source without linux, for becoming a developer the prime skills required for you is using the command line, that is the black box you type commands in. You can develop using windows too but it is most useful to have a Linux based system. Learn basic Linux Commands from here before proceeding.

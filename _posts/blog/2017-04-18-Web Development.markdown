@@ -2,7 +2,6 @@
 layout: post
 categories: blog
 ---
-<img src="{{ site.baseurl }}/images/pic03.jpg">
 Web based projects can be anything to a website like Facebook, youtube, github. Or something like our college website, our attendance viewer are all web based projects but are not open source. 
 
 Web based projects has two parts Frontend and Backend, read more about it here, https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
