@@ -2,15 +2,34 @@
 layout: post
 categories: milestones
 ---
+Hi, these are the milestones for web development. The web development team is lead by a group of people similar to you with a bit more experience than you. Our goal is to transfer our knowledge and help you in all ways possible to introduce you and make you contribute to the world of Open Source and web development, for that you'll have to work with us constantly and consistently with dedication till a FOSS culture is set up in MEC. As the web development team of FOSS, it will be our duty to  take care of the FOSS website, and in future build a better, more dynamic website for the college. For that the milestones set up by us, the mentors of this team are, 
 
-'LINUX' is the word which first hits your mind on hearing FOSS.Well it should be.Linux was an effort of Linus Torvalds and many others in developing a unix-like OS.In fact, we use GNU/Linux operating systems with linux at the kernel.The GNU project and Linux started around the same time with similar motivation 'a free and opensource counterpart for unix'.They were partially completed and merged to create a standalone OS. Most of the kernel side implementation belonged to linux and the interface and programs belonged to GNU.So next time you say linux think again and get used to say GNU/Linux.
+## Immediate Milestones:
 
-The GNU project did great contributions which we would probably use most in our developments.For example GCC(GNU Compiler Collection) which we use to compile our program GTK(GNU Image Manipulation Program or GIMP Tool Kit) which we use draw windows,borders,buttons etc... on our desktop and much more. Hence, remember its part in the entire GNU/Linux.
-# A word about Git
+* Setting up a Web-Dev Channel on Slack and building a team and collaboration.
+* Allocating Mentors for the team and training them in their interested fields.
+* Familiarisation with Git and Git based Hosting services like Github.
+* Familiarisation with Linux.
+* Teaching web basics
+* Basics of Web based framework and introduction to Frontend and backend technologies.
 
-For opensource programs like Linux where a lot of patches and issues along with a stable and future versions to be stored, a version control system plays a vital role.Early systems may have used tedious copy paste efforts.Keeping that in mind Linus Torvalds invented the "GIT" a VCS solution.It uses branching and merge to keep the stable version clean and working on a new patch simultaneously as simple as pi.Later a web interface of git have been launched, the 'github' which personally Linus hates as per an email interview conducted by wired.com.But still github makes it easier for making pull request and opening issues.
- We'll see the power of git and github also see their pros and cons while working with them to create our dream OS...
-## Last word : experience git hands-on
-### Start here:https://github.com/FossMec/practice-sess
+## Semester 2 and vacation: 
+* Trying to work on sample projects lead by team heads.
+* Team division (Front-end/Back-end)
+* Start project : FOSSMec Website
+* Finding out real Open Source projects the team members are interested in contributing in.
 
+## Semester 3: 
+* Start contributing to real Open Source projects.
+* Making the current first years as team leaders of next batch of students to introduce them to the world of open source.
+* Tranforming team members into full stack web developers who are able to cope up with all kind of dynamic requests and build whatever you can imagine with ease.
+ 
+If you have any suggestions or ideas, do message us in web-development team in slack. :)
 
+### Web Development team mentors, 
+
+* Adarsh S (Frontend/Python/Django)
+* Adarsh P Menon
+* Ashwin Nair
+* Jithin James
+* Hariraj K
