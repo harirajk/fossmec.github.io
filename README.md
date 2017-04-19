@@ -4,7 +4,10 @@ FOSS MEC is an initiatives put forward by the students of MEC to bring forth FOS
 
 This site runs on Jekyll, to use or update this site, use this commands
 
- `gem install jekyll bundler`
- `cd fossmec`
- `bundle exec jekyll serve`
+ `gem install jekyll bundler`.
+ 
+ `cd fossmec`.
+ 
+ `bundle exec jekyll serve`.
+ 
  => Now browse to http://localhost:4000

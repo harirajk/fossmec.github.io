@@ -1,0 +1,51 @@
+---
+layout: post
+categories: blog
+---
+
+FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the    world of Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010 at MEC. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges in the software world.
+
+### Objectives
+
+* To give exposure in the open source community
+* To nurture your coding talents 
+* To incorporate the concepts of open source into other fields such as IoT
+* To establish professional skills in the field of Computer Science for better job prospects.
+
+### Completely new to Open Source? Keep READING!
+
+Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
+
+Colleges may teach you programming, but not developing software. Companies, however, are looking for developers. So how are people selected by big corporations? 
+
+### "Okay! Sounds Cool but I'm a complete begi..
+ 
+ ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
+
+This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
+
+## Sounds Cool! Okay, I'm ready to get into FOSS! What do I do?
+
+Okay, so I guess you already joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in! Let's explain Slack. Slack is an instant messaging platform for collaborating with other developers. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
+
+#### I suggest you check in on slack everyday to make sure you don't miss out on anything.
+
+On the right hand side of slack, there are streams, it's exactly like different groups on whatsapp. Suppose you are learning C/C++, you ask all your questions and contact people specifically learning C/C++.
+
+The general chat enables users to get updated with college news and participate in group discussions.
+Moreover, the Slack mobile apps equips users with portability and news updates on the go. 
+
+* Android: https://play.google.com/store/apps/details?id=com.Slack&hl=en
+* Windows: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
+
+Always remember, you do not become a software developer overnight, it takes weeks and months of patience 
+and perseverence. Diving in might be hard, but the more you explore, the better it gets. So don't give up!
+
+### Task 1: So your current task is to say Hi in the general stream in slack and check in everyday.
+
+Go through this wonderful tutorial on being a developer or bookmark this to go through this link later! This is the ultimate bible for developers!!!
+
+https://www.pluralsight.com/courses/get-involved
+
+#### Okay, so that's done, now what?
+
