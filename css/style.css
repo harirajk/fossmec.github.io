@@ -350,7 +350,10 @@ input[type="radio"] + label:before {
     text-transform: none !important; }
   .icon > .label {
     display: none; }
-
+/* Link */
+a.link:hover{
+  background-color: #3a9d83;
+}
 /* Image */
 .image {
   border-radius: 5px;
