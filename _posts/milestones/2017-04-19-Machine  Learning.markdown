@@ -1,5 +1,5 @@
 ---
-title: Primary Milestones
+title: Machine Learning and AI
 layout: post
 category: milestones
 ---

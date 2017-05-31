@@ -24,8 +24,7 @@ Drupal - https://www.drupal.org/     etc...
 
 Google Summer of Code is a global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
 
-Since its inception in 2005, the program has brought together 12,000+ student participants and 11,000 mentors from over 127 countries worldwide. Google Summer of Code has produced 30,000,000+ lines of code for 568 open source organizations. 
+Since its inception in 2005, the program has brought together 12,000+ student participants and 11,000 mentors from over 127 countries worldwide. Google Summer of Code has produced 30,000,000+ lines of code for 568 open source organizations.
 As a part of Google Summer of Code, student participants are paired with a mentor from the participating organizations, gaining exposure to real-world software development and techniques. Students have the opportunity to spend the break between their school semesters earning a stipend while working in areas related to their interests and also pay $5500 for participating.
 
 In turn, the participating organizations are able to identify and bring in new developers who implement new features and hopefully continue to contribute to open source even after the program is over. Most importantly, more code is created and released for the use and benefit of all.
-
