@@ -4,7 +4,7 @@ layout: post
 ---
 # Web Development
 
-Hi, these are the milestones for web development. The web development team is lead by a group of people similar to you with a bit more experience than you. Our goal is to transfer our knowledge and help you in all ways possible to introduce you and make you contribute to the world of Open Source and web development, for that you'll have to work with us constantly and consistently with dedication till a FOSS culture is set up in MEC. As the web development team of FOSS, it will be our duty to  take care of the FOSS website, and in future build a better, more dynamic website for the college. For that the milestones set up by us, the mentors of this team are,
+Hi, these are the milestones for web development. The web development team is lead by a group of people similar to you with a bit more experience than you. Our goal is to transfer our knowledge and help you in all ways possible to introduce you and make you contribute to the world of Open Source and web development, for that you'll have to work with us constantly and consistently with dedication till a FOSS culture is set up in MEC. As the web development team of FOSS, it will be our duty to  take care of the FOSS website, and in future build a better, more dynamic website for the college. For that the milestones set up by us will be as following :
 
 ## Immediate Milestones:
 
